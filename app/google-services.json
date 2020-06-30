@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900166576388",
+    "firebase_url": "https://fir-text-recognition-12f3c.firebaseio.com",
+    "project_id": "fir-text-recognition-12f3c",
+    "storage_bucket": "fir-text-recognition-12f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900166576388:android:248bf695863b209d068851",
+        "android_client_info": {
+          "package_name": "com.example.firebasetextrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900166576388-b15ebtq7ddp8lrtsoj028u0gc9tvv2nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZI1EwoLDc3UgdIVlbZfq6lKL7YynJ4xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900166576388-b15ebtq7ddp8lrtsoj028u0gc9tvv2nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
